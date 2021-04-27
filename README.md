@@ -40,10 +40,13 @@ Copyright © 2021 Defacer Hurt.id- Powered by Indonesian Darknet
 ```
 
 ## Instalasi
-
+<p>
 $ git clone https://github.com/Kedjaw3n/WpCrack
+<p>
 $ cd WpCrack
+<p>
 $ python WpCrack.py
+<p>
 
 ## How To Use
 
